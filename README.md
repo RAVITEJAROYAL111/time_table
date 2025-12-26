@@ -74,7 +74,8 @@ footer {
   color: #444;
 }
 # OUTPUT
-<img width="807" height="408" alt="image" src="https://github.com/user-attachments/assets/bca33d7b-254c-425d-bbb7-4d44cf2bc6b9" />
+<img width="1137" height="757" alt="image" src="https://github.com/user-attachments/assets/cb4fc4a1-c929-4530-b6a0-2feddb924f1b" />
+
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
